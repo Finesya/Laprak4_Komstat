@@ -1,0 +1,816 @@
+"id_stasiun","tanggal","total_sesi","total_kwh","total_pendapatan","nama_stasiun","jumlah_charger","utilisasi_persen"
+"ST001",2026-01-01,1,11.66,29150,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-02,1,16.99,42475,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-03,1,44.08,110200,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-04,1,10.29,25725,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-05,1,10.77,26925,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-06,1,47.6,119000,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-08,3,141.8,354500,"Green Charge Sudirman",8,1.56
+"ST001",2026-01-10,2,25.4,63500,"Green Charge Sudirman",8,1.04
+"ST001",2026-01-11,1,31.5,78750,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-12,1,53.29,133225,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-14,1,23.49,58725,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-15,1,42.38,105950,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-16,1,59.69,149225,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-17,2,22.55,56375,"Green Charge Sudirman",8,1.04
+"ST001",2026-01-18,1,34.98,87450,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-20,1,12.54,31350,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-23,2,40.33,100825,"Green Charge Sudirman",8,1.04
+"ST001",2026-01-25,1,54.74,136850,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-26,1,59.97,149925,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-27,1,6.36,15900,"Green Charge Sudirman",8,0.52
+"ST001",2026-01-28,2,117.11,292775,"Green Charge Sudirman",8,1.04
+"ST001",2026-02-01,3,104.02,260050,"Green Charge Sudirman",8,1.56
+"ST001",2026-02-02,2,34.7,86750,"Green Charge Sudirman",8,1.04
+"ST001",2026-02-04,1,37.73,94325,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-07,1,39.27,98175,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-08,1,13.45,33625,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-11,1,55.99,139975,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-12,2,56.34,140850,"Green Charge Sudirman",8,1.04
+"ST001",2026-02-14,2,52.64,131600,"Green Charge Sudirman",8,1.04
+"ST001",2026-02-15,1,57.71,144275,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-17,1,32.29,80725,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-18,2,69.8,174500,"Green Charge Sudirman",8,1.04
+"ST001",2026-02-20,1,46.85,117125,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-21,1,38.05,95125,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-22,3,71.04,177600,"Green Charge Sudirman",8,1.56
+"ST001",2026-02-24,1,10.6,26500,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-25,1,10.75,26875,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-26,1,13.54,33850,"Green Charge Sudirman",8,0.52
+"ST001",2026-02-27,2,36.42,91050,"Green Charge Sudirman",8,1.04
+"ST001",2026-03-04,1,39.1,97750,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-05,3,95.17,237925,"Green Charge Sudirman",8,1.56
+"ST001",2026-03-07,2,72.28,180700,"Green Charge Sudirman",8,1.04
+"ST001",2026-03-14,1,30.05,75125,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-15,1,24.28,60700,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-16,1,34.29,85725,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-17,1,43.36,108400,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-18,1,38.64,96600,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-19,1,28.47,71175,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-22,4,166.69,416725,"Green Charge Sudirman",8,2.08
+"ST001",2026-03-23,1,14.46,36150,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-24,1,26.74,66850,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-25,1,29.16,72900,"Green Charge Sudirman",8,0.52
+"ST001",2026-03-31,2,56.36,140900,"Green Charge Sudirman",8,1.04
+"ST001",2026-04-01,1,39.03,97575,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-03,1,46.03,115075,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-04,1,24.11,60275,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-05,1,27.48,68700,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-06,3,86.98,217450,"Green Charge Sudirman",8,1.56
+"ST001",2026-04-11,1,41.8,104500,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-12,2,72.18,180450,"Green Charge Sudirman",8,1.04
+"ST001",2026-04-13,2,51.56,128900,"Green Charge Sudirman",8,1.04
+"ST001",2026-04-15,2,67.72,169300,"Green Charge Sudirman",8,1.04
+"ST001",2026-04-16,1,16.47,41175,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-18,2,82.89,207225,"Green Charge Sudirman",8,1.04
+"ST001",2026-04-19,2,46.16,115400,"Green Charge Sudirman",8,1.04
+"ST001",2026-04-20,1,51.03,127575,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-23,2,104.12,260300,"Green Charge Sudirman",8,1.04
+"ST001",2026-04-25,1,31.01,77525,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-26,1,38.56,96400,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-28,1,52.62,131550,"Green Charge Sudirman",8,0.52
+"ST001",2026-04-29,1,26.27,65675,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-05,1,40.44,101100,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-06,1,22.71,56775,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-07,1,54.97,137425,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-08,1,58.67,146675,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-09,1,50.67,126675,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-11,1,13.98,34950,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-13,1,52.73,131825,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-14,1,32.63,81575,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-16,1,53.2,133000,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-17,1,24.44,61100,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-19,1,50.7,126750,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-23,2,117.39,293475,"Green Charge Sudirman",8,1.04
+"ST001",2026-05-26,1,41.91,104775,"Green Charge Sudirman",8,0.52
+"ST001",2026-05-31,1,23.47,58675,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-01,1,36.48,91200,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-02,2,56.61,141525,"Green Charge Sudirman",8,1.04
+"ST001",2026-06-07,3,143.75,359375,"Green Charge Sudirman",8,1.56
+"ST001",2026-06-08,1,32.98,82450,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-09,2,76.51,191275,"Green Charge Sudirman",8,1.04
+"ST001",2026-06-11,1,8.54,21350,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-12,1,48.51,121275,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-13,2,60.39,150975,"Green Charge Sudirman",8,1.04
+"ST001",2026-06-14,1,26.36,65900,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-16,1,43.72,109300,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-19,2,14.4,36000,"Green Charge Sudirman",8,1.04
+"ST001",2026-06-20,1,31.02,77550,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-21,1,24.15,60375,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-23,2,60.55,151375,"Green Charge Sudirman",8,1.04
+"ST001",2026-06-24,1,35.28,88200,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-28,1,55.05,137625,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-29,1,43.33,108325,"Green Charge Sudirman",8,0.52
+"ST001",2026-06-30,1,17.23,43075,"Green Charge Sudirman",8,0.52
+"ST002",2026-01-03,1,25.86,64650,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-04,1,22.19,55475,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-05,1,46.73,116825,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-11,1,57.65,144125,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-12,2,70.89,177225,"Green Charge Kuningan",6,1.39
+"ST002",2026-01-13,2,85.86,214650,"Green Charge Kuningan",6,1.39
+"ST002",2026-01-15,1,22.54,56350,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-18,1,52.02,130050,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-20,1,44.33,110825,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-26,1,20.73,51825,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-27,1,57.1,142750,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-28,1,53.29,133225,"Green Charge Kuningan",6,0.69
+"ST002",2026-01-29,2,112.07,280175,"Green Charge Kuningan",6,1.39
+"ST002",2026-01-30,1,37.91,94775,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-02,1,14.05,35125,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-03,1,27.1,67750,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-04,1,50.66,126650,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-07,1,22.48,56200,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-08,1,17.59,43975,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-09,1,39.17,97925,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-10,1,33.54,83850,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-14,1,41.48,103700,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-15,2,70.08,175200,"Green Charge Kuningan",6,1.39
+"ST002",2026-02-19,1,22.18,55450,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-20,1,52.66,131650,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-21,1,51.33,128325,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-23,2,52.74,131850,"Green Charge Kuningan",6,1.39
+"ST002",2026-02-24,1,57.95,144875,"Green Charge Kuningan",6,0.69
+"ST002",2026-02-27,1,31.29,78225,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-01,2,71.88,179700,"Green Charge Kuningan",6,1.39
+"ST002",2026-03-04,2,37.73,94325,"Green Charge Kuningan",6,1.39
+"ST002",2026-03-05,1,8.36,20900,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-06,1,43.58,108950,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-07,1,21.23,53075,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-11,2,66.11,165275,"Green Charge Kuningan",6,1.39
+"ST002",2026-03-12,1,23.01,57525,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-13,3,121.36,303400,"Green Charge Kuningan",6,2.08
+"ST002",2026-03-15,1,14.51,36275,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-18,1,8.57,21425,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-19,1,29.49,73725,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-21,2,105.45,263625,"Green Charge Kuningan",6,1.39
+"ST002",2026-03-24,1,50.96,127400,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-26,1,18.22,45550,"Green Charge Kuningan",6,0.69
+"ST002",2026-03-28,1,16.43,41075,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-01,2,43.34,108350,"Green Charge Kuningan",6,1.39
+"ST002",2026-04-04,1,33.84,84600,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-07,1,50.22,125550,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-15,1,26.08,65200,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-18,1,42.41,106025,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-20,1,24.99,62475,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-21,3,99.58,248950,"Green Charge Kuningan",6,2.08
+"ST002",2026-04-22,1,16.23,40575,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-23,1,51.58,128950,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-24,1,49.21,123025,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-25,1,12.97,32425,"Green Charge Kuningan",6,0.69
+"ST002",2026-04-28,2,75.29,188225,"Green Charge Kuningan",6,1.39
+"ST002",2026-04-30,1,47.7,119250,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-03,1,25.16,62900,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-05,1,8.28,20700,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-06,2,37.85,94625,"Green Charge Kuningan",6,1.39
+"ST002",2026-05-07,1,15.85,39625,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-08,1,31.52,78800,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-09,1,14.37,35925,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-11,1,9.84,24600,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-12,1,33.61,84025,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-13,1,11.49,28725,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-15,1,20.23,50575,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-17,2,49.74,124350,"Green Charge Kuningan",6,1.39
+"ST002",2026-05-20,2,57.11,142775,"Green Charge Kuningan",6,1.39
+"ST002",2026-05-22,1,57.28,143200,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-23,1,31.2,78000,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-24,1,47.12,117800,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-27,1,48.5,121250,"Green Charge Kuningan",6,0.69
+"ST002",2026-05-28,1,44.75,111875,"Green Charge Kuningan",6,0.69
+"ST002",2026-06-02,2,81.73,204325,"Green Charge Kuningan",6,1.39
+"ST002",2026-06-04,2,91.23,228075,"Green Charge Kuningan",6,1.39
+"ST002",2026-06-05,2,85.36,213400,"Green Charge Kuningan",6,1.39
+"ST002",2026-06-07,1,33.38,83450,"Green Charge Kuningan",6,0.69
+"ST002",2026-06-13,4,119.64,299100,"Green Charge Kuningan",6,2.78
+"ST002",2026-06-14,1,13.23,33075,"Green Charge Kuningan",6,0.69
+"ST002",2026-06-16,2,63.75,159375,"Green Charge Kuningan",6,1.39
+"ST002",2026-06-18,1,15.37,38425,"Green Charge Kuningan",6,0.69
+"ST002",2026-06-20,1,23.26,58150,"Green Charge Kuningan",6,0.69
+"ST002",2026-06-21,2,105.39,263475,"Green Charge Kuningan",6,1.39
+"ST002",2026-06-22,1,29.83,74575,"Green Charge Kuningan",6,0.69
+"ST002",2026-06-24,2,79.71,199275,"Green Charge Kuningan",6,1.39
+"ST002",2026-06-28,1,25.9,64750,"Green Charge Kuningan",6,0.69
+"ST003",2026-01-01,1,56.95,142375,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-02,1,30.82,77050,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-03,2,58.91,147275,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-01-04,2,32.17,80425,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-01-05,1,16.06,40150,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-07,1,12.43,31075,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-09,1,49.84,124600,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-10,2,47.39,118475,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-01-11,1,16.43,41075,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-12,1,19.35,48375,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-13,1,18.39,45975,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-14,1,43.89,109725,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-16,1,8.93,22325,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-19,1,8.24,20600,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-24,3,62.65,156625,"Green Charge Gatot Subroto",10,1.25
+"ST003",2026-01-25,1,5.55,13875,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-26,1,55.67,139175,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-01-28,2,84.49,211225,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-01-29,2,25.58,63950,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-01-31,1,43.08,107700,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-02-01,2,69.34,173350,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-02-02,2,88.5,221250,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-02-06,3,127.95,319875,"Green Charge Gatot Subroto",10,1.25
+"ST003",2026-02-09,1,50.51,126275,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-02-11,2,43.31,108275,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-02-13,1,30.48,76200,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-02-14,1,37.24,93100,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-02-15,2,58.75,146875,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-02-16,2,70.55,176375,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-02-18,4,181.6,454000,"Green Charge Gatot Subroto",10,1.67
+"ST003",2026-02-26,1,34.36,85900,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-01,1,10.26,25650,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-03,1,57.71,144275,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-04,1,16.86,42150,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-06,1,35.49,88725,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-07,3,111.62,279050,"Green Charge Gatot Subroto",10,1.25
+"ST003",2026-03-08,2,92.12,230300,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-03-09,1,24.02,60050,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-11,1,11.18,27950,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-12,1,44.06,110150,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-14,1,20.2,50500,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-15,1,16.44,41100,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-17,1,53.32,133300,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-18,1,20.83,52075,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-21,1,36.55,91375,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-23,1,29.4,73500,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-24,2,80.87,202175,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-03-25,2,40.85,102125,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-03-27,2,15.6,39000,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-03-30,1,40.56,101400,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-03-31,1,15.86,39650,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-03,1,49.26,123150,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-04,1,50.15,125375,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-09,1,56.61,141525,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-11,1,24.62,61550,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-12,2,81.85,204625,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-04-13,1,37.44,93600,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-15,1,54.26,135650,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-18,1,35,87500,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-19,4,150.09,375225,"Green Charge Gatot Subroto",10,1.67
+"ST003",2026-04-22,1,38.28,95700,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-26,1,49.99,124975,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-28,1,15.76,39400,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-04-29,2,63.12,157800,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-05-01,2,84.03,210075,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-05-03,3,42.79,106975,"Green Charge Gatot Subroto",10,1.25
+"ST003",2026-05-05,1,37.8,94500,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-05-07,2,26.9,67250,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-05-10,1,41.19,102975,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-05-12,2,95.02,237550,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-05-13,2,34.4,86000,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-05-16,1,31.73,79325,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-05-17,1,5.91,14775,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-05-22,1,23.36,58400,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-05-24,4,104.13,260325,"Green Charge Gatot Subroto",10,1.67
+"ST003",2026-05-26,1,8.83,22075,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-05-29,1,20.49,51225,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-03,1,7.26,18150,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-04,1,29.49,73725,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-06,2,87.96,219900,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-06-08,1,48.19,120475,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-09,1,56.29,140725,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-10,1,39.09,97725,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-11,1,22.35,55875,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-12,2,57.03,142575,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-06-13,2,72.16,180400,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-06-14,1,38.67,96675,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-16,1,35.47,88675,"Green Charge Gatot Subroto",10,0.42
+"ST003",2026-06-20,3,133.98,334950,"Green Charge Gatot Subroto",10,1.25
+"ST003",2026-06-24,2,68.26,170650,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-06-28,2,82.51,206275,"Green Charge Gatot Subroto",10,0.83
+"ST003",2026-06-29,1,44.47,111175,"Green Charge Gatot Subroto",10,0.42
+"ST004",2026-01-01,2,47.03,117575,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-01-02,1,38.67,96675,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-05,1,5.67,14175,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-06,3,99.55,248875,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-01-07,1,48.9,122250,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-08,2,62.52,156300,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-01-10,1,30.82,77050,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-11,2,35.78,89450,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-01-12,3,117.87,294675,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-01-13,2,54.58,136450,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-01-14,1,47.37,118425,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-15,3,103.73,259325,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-01-16,1,14.71,36775,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-20,3,45.94,114850,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-01-21,1,6.73,16825,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-23,1,12.26,30650,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-24,1,39.96,99900,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-25,2,91.12,227800,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-01-26,1,6.31,15775,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-01-28,4,173,432500,"Green Charge TB Simatupang",12,1.39
+"ST004",2026-01-31,1,8.75,21875,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-01,1,8.13,20325,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-02,3,58.98,147450,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-02-04,3,125.54,313850,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-02-06,1,20.25,50625,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-08,1,8,20000,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-10,1,28.23,70575,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-11,1,9.25,23125,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-16,1,44.26,110650,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-18,4,155.66,389150,"Green Charge TB Simatupang",12,1.39
+"ST004",2026-02-19,1,33.56,83900,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-20,2,41.77,104425,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-02-21,2,64.72,161800,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-02-22,2,49.35,123375,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-02-24,1,55.71,139275,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-26,1,42.14,105350,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-02-27,4,203.85,509625,"Green Charge TB Simatupang",12,1.39
+"ST004",2026-02-28,1,29.2,73000,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-04,2,34.17,85425,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-03-06,1,36,90000,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-09,3,121.65,304125,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-03-13,1,49.19,122975,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-15,1,15.94,39850,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-16,1,30,75000,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-17,1,44.94,112350,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-18,1,42.05,105125,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-19,1,7.32,18300,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-20,2,75.75,189375,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-03-22,1,20.88,52200,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-23,3,75.13,187825,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-03-24,1,23.14,57850,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-25,1,48.75,121875,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-26,1,27.93,69825,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-28,1,36.34,90850,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-30,1,52.3,130750,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-03-31,2,110.37,275925,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-04-02,2,72.43,181075,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-04-03,1,32.52,81300,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-04,2,42.33,105825,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-04-05,1,15.23,38075,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-06,1,28.79,71975,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-08,2,70.4,176000,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-04-09,1,36.73,91825,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-15,1,42.02,105050,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-16,1,57.48,143700,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-18,2,74.74,186850,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-04-19,1,47.23,118075,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-20,1,52.03,130075,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-23,1,24.42,61050,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-24,1,47.94,119850,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-26,2,94.89,237225,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-04-27,1,38.23,95575,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-04-29,5,135.53,338825,"Green Charge TB Simatupang",12,1.74
+"ST004",2026-05-01,1,56.12,140300,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-03,1,59.36,148400,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-06,1,16.56,41400,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-07,1,6.06,15150,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-09,2,62.07,155175,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-05-10,1,19.13,47825,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-12,2,42.47,106175,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-05-13,2,66,165000,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-05-16,1,59.33,148325,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-19,2,65.21,163025,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-05-20,5,97.08,242700,"Green Charge TB Simatupang",12,1.74
+"ST004",2026-05-22,1,6.47,16175,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-23,2,92.05,230125,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-05-24,1,39.35,98375,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-25,1,27.48,68700,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-05-26,2,96.48,241200,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-05-28,2,65.97,164925,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-05-29,2,55.17,137925,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-06-02,1,41.04,102600,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-04,3,95.45,238625,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-06-05,2,41.64,104100,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-06-08,1,39.09,97725,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-09,2,52.29,130725,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-06-10,2,93.38,233450,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-06-11,2,12.67,31675,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-06-12,1,10.4,26000,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-14,1,55.08,137700,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-17,1,13.43,33575,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-18,1,15.31,38275,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-20,2,61.64,154100,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-06-22,2,54.73,136825,"Green Charge TB Simatupang",12,0.69
+"ST004",2026-06-23,1,39.51,98775,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-24,3,85.34,213350,"Green Charge TB Simatupang",12,1.04
+"ST004",2026-06-27,1,7.74,19350,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-29,1,38.3,95750,"Green Charge TB Simatupang",12,0.35
+"ST004",2026-06-30,1,32.37,80925,"Green Charge TB Simatupang",12,0.35
+"ST005",2026-01-02,1,38.46,96150,"Green Charge Kemang",5,0.83
+"ST005",2026-01-07,1,20.7,51750,"Green Charge Kemang",5,0.83
+"ST005",2026-01-08,2,49.22,123050,"Green Charge Kemang",5,1.67
+"ST005",2026-01-09,1,51.09,127725,"Green Charge Kemang",5,0.83
+"ST005",2026-01-10,1,15.34,38350,"Green Charge Kemang",5,0.83
+"ST005",2026-01-16,1,9.51,23775,"Green Charge Kemang",5,0.83
+"ST005",2026-01-21,1,34.33,85825,"Green Charge Kemang",5,0.83
+"ST005",2026-01-27,2,72.39,180975,"Green Charge Kemang",5,1.67
+"ST005",2026-01-29,1,54.58,136450,"Green Charge Kemang",5,0.83
+"ST005",2026-02-01,1,12.6,31500,"Green Charge Kemang",5,0.83
+"ST005",2026-02-05,2,34.12,85300,"Green Charge Kemang",5,1.67
+"ST005",2026-02-09,1,53.82,134550,"Green Charge Kemang",5,0.83
+"ST005",2026-02-10,2,14.88,37200,"Green Charge Kemang",5,1.67
+"ST005",2026-02-11,1,26.54,66350,"Green Charge Kemang",5,0.83
+"ST005",2026-02-12,1,32.99,82475,"Green Charge Kemang",5,0.83
+"ST005",2026-02-14,1,17.39,43475,"Green Charge Kemang",5,0.83
+"ST005",2026-02-16,1,13.24,33100,"Green Charge Kemang",5,0.83
+"ST005",2026-02-28,1,37.39,93475,"Green Charge Kemang",5,0.83
+"ST005",2026-03-04,1,26.35,65875,"Green Charge Kemang",5,0.83
+"ST005",2026-03-09,1,40.12,100300,"Green Charge Kemang",5,0.83
+"ST005",2026-03-11,1,8.48,21200,"Green Charge Kemang",5,0.83
+"ST005",2026-03-13,1,9.52,23800,"Green Charge Kemang",5,0.83
+"ST005",2026-03-17,1,54.08,135200,"Green Charge Kemang",5,0.83
+"ST005",2026-03-29,1,11.52,28800,"Green Charge Kemang",5,0.83
+"ST005",2026-04-03,1,30.34,75850,"Green Charge Kemang",5,0.83
+"ST005",2026-04-05,1,38.84,97100,"Green Charge Kemang",5,0.83
+"ST005",2026-04-07,3,76.84,192100,"Green Charge Kemang",5,2.5
+"ST005",2026-04-10,1,56.35,140875,"Green Charge Kemang",5,0.83
+"ST005",2026-04-13,1,54.33,135825,"Green Charge Kemang",5,0.83
+"ST005",2026-04-14,1,32.69,81725,"Green Charge Kemang",5,0.83
+"ST005",2026-04-18,1,53.08,132700,"Green Charge Kemang",5,0.83
+"ST005",2026-04-19,3,69.97,174925,"Green Charge Kemang",5,2.5
+"ST005",2026-04-23,1,46.95,117375,"Green Charge Kemang",5,0.83
+"ST005",2026-04-26,1,12.08,30200,"Green Charge Kemang",5,0.83
+"ST005",2026-05-01,1,9.45,23625,"Green Charge Kemang",5,0.83
+"ST005",2026-05-03,1,54.49,136225,"Green Charge Kemang",5,0.83
+"ST005",2026-05-05,1,23.04,57600,"Green Charge Kemang",5,0.83
+"ST005",2026-05-10,1,35.75,89375,"Green Charge Kemang",5,0.83
+"ST005",2026-05-15,3,63.51,158775,"Green Charge Kemang",5,2.5
+"ST005",2026-05-19,1,43.59,108975,"Green Charge Kemang",5,0.83
+"ST005",2026-05-20,1,41.89,104725,"Green Charge Kemang",5,0.83
+"ST005",2026-05-22,4,140.64,351600,"Green Charge Kemang",5,3.33
+"ST005",2026-05-23,2,67,167500,"Green Charge Kemang",5,1.67
+"ST005",2026-05-26,1,54.53,136325,"Green Charge Kemang",5,0.83
+"ST005",2026-05-28,2,67.85,169625,"Green Charge Kemang",5,1.67
+"ST005",2026-05-30,2,72.87,182175,"Green Charge Kemang",5,1.67
+"ST005",2026-06-05,1,11.8,29500,"Green Charge Kemang",5,0.83
+"ST005",2026-06-06,1,33.63,84075,"Green Charge Kemang",5,0.83
+"ST005",2026-06-08,1,43.99,109975,"Green Charge Kemang",5,0.83
+"ST005",2026-06-09,1,43.78,109450,"Green Charge Kemang",5,0.83
+"ST005",2026-06-10,1,59.51,148775,"Green Charge Kemang",5,0.83
+"ST005",2026-06-16,1,41.88,104700,"Green Charge Kemang",5,0.83
+"ST005",2026-06-19,1,37.13,92825,"Green Charge Kemang",5,0.83
+"ST005",2026-06-23,1,8.81,22025,"Green Charge Kemang",5,0.83
+"ST005",2026-06-24,1,54.5,136250,"Green Charge Kemang",5,0.83
+"ST005",2026-06-25,2,56.55,141375,"Green Charge Kemang",5,1.67
+"ST005",2026-06-27,1,14.63,36575,"Green Charge Kemang",5,0.83
+"ST005",2026-06-28,1,28.35,70875,"Green Charge Kemang",5,0.83
+"ST006",2026-01-01,1,41.8,104500,"Green Charge Senayan",9,0.46
+"ST006",2026-01-02,1,6.38,15950,"Green Charge Senayan",9,0.46
+"ST006",2026-01-04,1,6.49,16225,"Green Charge Senayan",9,0.46
+"ST006",2026-01-05,1,6.19,15475,"Green Charge Senayan",9,0.46
+"ST006",2026-01-08,1,45.52,113800,"Green Charge Senayan",9,0.46
+"ST006",2026-01-09,1,40.22,100550,"Green Charge Senayan",9,0.46
+"ST006",2026-01-10,1,6.79,16975,"Green Charge Senayan",9,0.46
+"ST006",2026-01-11,1,19.85,49625,"Green Charge Senayan",9,0.46
+"ST006",2026-01-17,2,63.88,159700,"Green Charge Senayan",9,0.93
+"ST006",2026-01-18,1,12.58,31450,"Green Charge Senayan",9,0.46
+"ST006",2026-01-19,1,6.66,16650,"Green Charge Senayan",9,0.46
+"ST006",2026-01-22,1,15.73,39325,"Green Charge Senayan",9,0.46
+"ST006",2026-01-25,2,74.99,187475,"Green Charge Senayan",9,0.93
+"ST006",2026-01-26,1,42.55,106375,"Green Charge Senayan",9,0.46
+"ST006",2026-01-29,2,79.62,199050,"Green Charge Senayan",9,0.93
+"ST006",2026-02-01,3,87.93,219825,"Green Charge Senayan",9,1.39
+"ST006",2026-02-03,2,70.62,176550,"Green Charge Senayan",9,0.93
+"ST006",2026-02-04,2,81.87,204675,"Green Charge Senayan",9,0.93
+"ST006",2026-02-05,1,37.41,93525,"Green Charge Senayan",9,0.46
+"ST006",2026-02-06,1,46.89,117225,"Green Charge Senayan",9,0.46
+"ST006",2026-02-08,1,51.05,127625,"Green Charge Senayan",9,0.46
+"ST006",2026-02-09,1,55.44,138600,"Green Charge Senayan",9,0.46
+"ST006",2026-02-10,1,13.71,34275,"Green Charge Senayan",9,0.46
+"ST006",2026-02-11,1,16.4,41000,"Green Charge Senayan",9,0.46
+"ST006",2026-02-14,1,48.98,122450,"Green Charge Senayan",9,0.46
+"ST006",2026-02-15,2,74.95,187375,"Green Charge Senayan",9,0.93
+"ST006",2026-02-20,1,48.75,121875,"Green Charge Senayan",9,0.46
+"ST006",2026-02-22,1,13.57,33925,"Green Charge Senayan",9,0.46
+"ST006",2026-02-24,1,5.22,13050,"Green Charge Senayan",9,0.46
+"ST006",2026-02-25,1,9.82,24550,"Green Charge Senayan",9,0.46
+"ST006",2026-02-27,1,37.59,93975,"Green Charge Senayan",9,0.46
+"ST006",2026-02-28,3,117.8,294500,"Green Charge Senayan",9,1.39
+"ST006",2026-03-01,1,12.87,32175,"Green Charge Senayan",9,0.46
+"ST006",2026-03-02,2,61.23,153075,"Green Charge Senayan",9,0.93
+"ST006",2026-03-04,1,36.84,92100,"Green Charge Senayan",9,0.46
+"ST006",2026-03-05,3,107.49,268725,"Green Charge Senayan",9,1.39
+"ST006",2026-03-06,3,73.42,183550,"Green Charge Senayan",9,1.39
+"ST006",2026-03-08,1,16.35,40875,"Green Charge Senayan",9,0.46
+"ST006",2026-03-13,2,71.41,178525,"Green Charge Senayan",9,0.93
+"ST006",2026-03-15,1,36.84,92100,"Green Charge Senayan",9,0.46
+"ST006",2026-03-20,1,34.35,85875,"Green Charge Senayan",9,0.46
+"ST006",2026-03-25,2,40.54,101350,"Green Charge Senayan",9,0.93
+"ST006",2026-03-26,2,64.37,160925,"Green Charge Senayan",9,0.93
+"ST006",2026-03-27,1,24.14,60350,"Green Charge Senayan",9,0.46
+"ST006",2026-03-29,1,29.94,74850,"Green Charge Senayan",9,0.46
+"ST006",2026-03-31,2,52.92,132300,"Green Charge Senayan",9,0.93
+"ST006",2026-04-02,2,83.98,209950,"Green Charge Senayan",9,0.93
+"ST006",2026-04-04,1,56.36,140900,"Green Charge Senayan",9,0.46
+"ST006",2026-04-05,2,54.21,135525,"Green Charge Senayan",9,0.93
+"ST006",2026-04-07,2,110.61,276525,"Green Charge Senayan",9,0.93
+"ST006",2026-04-08,3,98.22,245550,"Green Charge Senayan",9,1.39
+"ST006",2026-04-10,1,17.1,42750,"Green Charge Senayan",9,0.46
+"ST006",2026-04-12,1,41.27,103175,"Green Charge Senayan",9,0.46
+"ST006",2026-04-13,1,20.37,50925,"Green Charge Senayan",9,0.46
+"ST006",2026-04-18,2,39.56,98900,"Green Charge Senayan",9,0.93
+"ST006",2026-04-19,3,103.65,259125,"Green Charge Senayan",9,1.39
+"ST006",2026-04-20,1,11.97,29925,"Green Charge Senayan",9,0.46
+"ST006",2026-04-22,1,9.47,23675,"Green Charge Senayan",9,0.46
+"ST006",2026-04-25,1,49.77,124425,"Green Charge Senayan",9,0.46
+"ST006",2026-04-27,1,50.91,127275,"Green Charge Senayan",9,0.46
+"ST006",2026-04-28,1,50.99,127475,"Green Charge Senayan",9,0.46
+"ST006",2026-05-02,1,31.64,79100,"Green Charge Senayan",9,0.46
+"ST006",2026-05-06,1,21.13,52825,"Green Charge Senayan",9,0.46
+"ST006",2026-05-07,2,37.83,94575,"Green Charge Senayan",9,0.93
+"ST006",2026-05-10,3,137.69,344225,"Green Charge Senayan",9,1.39
+"ST006",2026-05-11,2,57.92,144800,"Green Charge Senayan",9,0.93
+"ST006",2026-05-13,1,26.75,66875,"Green Charge Senayan",9,0.46
+"ST006",2026-05-15,1,12.9,32250,"Green Charge Senayan",9,0.46
+"ST006",2026-05-17,1,27.64,69100,"Green Charge Senayan",9,0.46
+"ST006",2026-05-19,1,50.81,127025,"Green Charge Senayan",9,0.46
+"ST006",2026-05-22,2,77.96,194900,"Green Charge Senayan",9,0.93
+"ST006",2026-05-23,1,46.47,116175,"Green Charge Senayan",9,0.46
+"ST006",2026-05-25,1,53.81,134525,"Green Charge Senayan",9,0.46
+"ST006",2026-05-27,1,11.07,27675,"Green Charge Senayan",9,0.46
+"ST006",2026-05-28,1,43.48,108700,"Green Charge Senayan",9,0.46
+"ST006",2026-05-29,1,34.85,87125,"Green Charge Senayan",9,0.46
+"ST006",2026-05-31,1,43.48,108700,"Green Charge Senayan",9,0.46
+"ST006",2026-06-02,2,67.11,167775,"Green Charge Senayan",9,0.93
+"ST006",2026-06-04,3,132.01,330025,"Green Charge Senayan",9,1.39
+"ST006",2026-06-09,1,13.82,34550,"Green Charge Senayan",9,0.46
+"ST006",2026-06-10,1,25.29,63225,"Green Charge Senayan",9,0.46
+"ST006",2026-06-11,1,16.4,41000,"Green Charge Senayan",9,0.46
+"ST006",2026-06-12,1,32.35,80875,"Green Charge Senayan",9,0.46
+"ST006",2026-06-14,2,33.13,82825,"Green Charge Senayan",9,0.93
+"ST006",2026-06-15,1,41.7,104250,"Green Charge Senayan",9,0.46
+"ST006",2026-06-16,2,55.86,139650,"Green Charge Senayan",9,0.93
+"ST006",2026-06-18,2,13.27,33175,"Green Charge Senayan",9,0.93
+"ST006",2026-06-20,1,27.09,67725,"Green Charge Senayan",9,0.46
+"ST006",2026-06-21,1,37.7,94250,"Green Charge Senayan",9,0.46
+"ST006",2026-06-24,1,51.79,129475,"Green Charge Senayan",9,0.46
+"ST006",2026-06-25,1,16.01,40025,"Green Charge Senayan",9,0.46
+"ST006",2026-06-27,2,88.07,220175,"Green Charge Senayan",9,0.93
+"ST006",2026-06-28,1,7.34,18350,"Green Charge Senayan",9,0.46
+"ST006",2026-06-30,1,47.74,119350,"Green Charge Senayan",9,0.46
+"ST007",2026-01-01,2,81.85,204625,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-01-02,1,17.67,44175,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-06,1,17.05,42625,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-07,1,14.6,36500,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-10,1,14.73,36825,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-12,2,39.32,98300,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-01-13,3,115.98,289950,"Green Charge Kelapa Gading",7,1.79
+"ST007",2026-01-17,2,39.26,98150,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-01-18,1,21.53,53825,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-19,1,33.13,82825,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-20,1,22.12,55300,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-23,1,39.13,97825,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-24,1,21.06,52650,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-25,1,32.64,81600,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-26,1,9.73,24325,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-27,1,35.43,88575,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-01-29,1,57.57,143925,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-02-01,2,28.81,72025,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-02-07,1,39.71,99275,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-02-12,3,88.67,221675,"Green Charge Kelapa Gading",7,1.79
+"ST007",2026-02-13,1,22.89,57225,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-02-14,1,6.5,16250,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-02-17,1,20.08,50200,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-02-19,2,21.11,52775,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-02-22,1,9.69,24225,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-02-26,1,57.83,144575,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-02-28,4,140.41,351025,"Green Charge Kelapa Gading",7,2.38
+"ST007",2026-03-01,1,34.7,86750,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-02,2,41.33,103325,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-03-03,1,12.11,30275,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-08,1,51.78,129450,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-09,1,17.87,44675,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-11,1,24.39,60975,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-15,2,75.06,187650,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-03-19,1,27.3,68250,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-20,1,21.09,52725,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-21,1,14.38,35950,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-03-30,2,97.09,242725,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-04-01,1,36.8,92000,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-07,1,29.22,73050,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-17,1,48.82,122050,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-19,1,33.59,83975,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-20,1,45.39,113475,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-22,1,15,37500,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-24,1,31.37,78425,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-25,1,40.19,100475,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-04-26,2,22.89,57225,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-04-29,1,26.73,66825,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-05-06,2,65.41,163525,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-05-07,1,41.76,104400,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-05-08,1,9.73,24325,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-05-15,1,5.39,13475,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-05-20,1,41.16,102900,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-05-26,1,50.42,126050,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-05-27,2,40.99,102475,"Green Charge Kelapa Gading",7,1.19
+"ST007",2026-05-31,1,26.51,66275,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-04,1,7.93,19825,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-08,1,44.41,111025,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-11,1,50.71,126775,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-12,1,48.32,120800,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-16,3,127.38,318450,"Green Charge Kelapa Gading",7,1.79
+"ST007",2026-06-21,1,48.3,120750,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-22,1,48.51,121275,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-24,1,14.71,36775,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-25,1,41.28,103200,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-27,1,34.45,86125,"Green Charge Kelapa Gading",7,0.6
+"ST007",2026-06-29,2,68.28,170700,"Green Charge Kelapa Gading",7,1.19
+"ST008",2026-01-04,1,53.39,133475,"Green Charge Puri Indah",6,0.69
+"ST008",2026-01-09,3,107,267500,"Green Charge Puri Indah",6,2.08
+"ST008",2026-01-10,1,29.82,74550,"Green Charge Puri Indah",6,0.69
+"ST008",2026-01-12,2,99.71,249275,"Green Charge Puri Indah",6,1.39
+"ST008",2026-01-19,1,35.44,88600,"Green Charge Puri Indah",6,0.69
+"ST008",2026-01-21,2,43.74,109350,"Green Charge Puri Indah",6,1.39
+"ST008",2026-01-22,1,13.09,32725,"Green Charge Puri Indah",6,0.69
+"ST008",2026-01-23,1,34.87,87175,"Green Charge Puri Indah",6,0.69
+"ST008",2026-01-26,2,97.75,244375,"Green Charge Puri Indah",6,1.39
+"ST008",2026-01-28,1,43.64,109100,"Green Charge Puri Indah",6,0.69
+"ST008",2026-01-30,1,59.56,148900,"Green Charge Puri Indah",6,0.69
+"ST008",2026-01-31,1,5.32,13300,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-06,1,58.38,145950,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-13,1,25.48,63700,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-15,1,51.9,129750,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-16,3,120.39,300975,"Green Charge Puri Indah",6,2.08
+"ST008",2026-02-17,1,5.91,14775,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-19,1,24.43,61075,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-20,1,45.02,112550,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-22,2,67.23,168075,"Green Charge Puri Indah",6,1.39
+"ST008",2026-02-23,1,20.16,50400,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-26,1,14.74,36850,"Green Charge Puri Indah",6,0.69
+"ST008",2026-02-27,2,42.61,106525,"Green Charge Puri Indah",6,1.39
+"ST008",2026-03-04,2,55.63,139075,"Green Charge Puri Indah",6,1.39
+"ST008",2026-03-06,2,34.97,87425,"Green Charge Puri Indah",6,1.39
+"ST008",2026-03-10,3,93.72,234300,"Green Charge Puri Indah",6,2.08
+"ST008",2026-03-15,1,7.51,18775,"Green Charge Puri Indah",6,0.69
+"ST008",2026-03-16,1,32.18,80450,"Green Charge Puri Indah",6,0.69
+"ST008",2026-03-19,1,28.53,71325,"Green Charge Puri Indah",6,0.69
+"ST008",2026-03-20,1,59.81,149525,"Green Charge Puri Indah",6,0.69
+"ST008",2026-03-21,1,32.61,81525,"Green Charge Puri Indah",6,0.69
+"ST008",2026-03-24,1,10.05,25125,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-01,2,66.65,166625,"Green Charge Puri Indah",6,1.39
+"ST008",2026-04-05,1,8.62,21550,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-06,1,28.63,71575,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-15,4,155.62,389050,"Green Charge Puri Indah",6,2.78
+"ST008",2026-04-17,1,8.59,21475,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-21,2,37.33,93325,"Green Charge Puri Indah",6,1.39
+"ST008",2026-04-22,1,38.18,95450,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-23,1,11.44,28600,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-24,1,57.22,143050,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-25,1,16.61,41525,"Green Charge Puri Indah",6,0.69
+"ST008",2026-04-29,1,42.09,105225,"Green Charge Puri Indah",6,0.69
+"ST008",2026-05-02,1,15.68,39200,"Green Charge Puri Indah",6,0.69
+"ST008",2026-05-03,2,36.7,91750,"Green Charge Puri Indah",6,1.39
+"ST008",2026-05-06,1,20.38,50950,"Green Charge Puri Indah",6,0.69
+"ST008",2026-05-10,1,48.96,122400,"Green Charge Puri Indah",6,0.69
+"ST008",2026-05-11,2,102.98,257450,"Green Charge Puri Indah",6,1.39
+"ST008",2026-05-16,1,23.35,58375,"Green Charge Puri Indah",6,0.69
+"ST008",2026-05-19,1,34.14,85350,"Green Charge Puri Indah",6,0.69
+"ST008",2026-05-20,2,96.96,242400,"Green Charge Puri Indah",6,1.39
+"ST008",2026-05-26,2,69.55,173875,"Green Charge Puri Indah",6,1.39
+"ST008",2026-05-27,2,101.57,253925,"Green Charge Puri Indah",6,1.39
+"ST008",2026-05-29,1,58.41,146025,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-04,1,54.72,136800,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-07,1,20.07,50175,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-08,1,37.66,94150,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-09,1,58.2,145500,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-13,1,16.34,40850,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-16,1,16.94,42350,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-18,2,81.91,204775,"Green Charge Puri Indah",6,1.39
+"ST008",2026-06-19,1,23.23,58075,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-21,2,52.72,131800,"Green Charge Puri Indah",6,1.39
+"ST008",2026-06-22,1,39.39,98475,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-27,1,5.49,13725,"Green Charge Puri Indah",6,0.69
+"ST008",2026-06-28,1,56.87,142175,"Green Charge Puri Indah",6,0.69
+"ST009",2026-01-01,2,21.15,52875,"Green Charge Cibubur",8,1.04
+"ST009",2026-01-03,1,32.11,80275,"Green Charge Cibubur",8,0.52
+"ST009",2026-01-05,1,28.45,71125,"Green Charge Cibubur",8,0.52
+"ST009",2026-01-11,1,14.93,37325,"Green Charge Cibubur",8,0.52
+"ST009",2026-01-14,1,5.32,13300,"Green Charge Cibubur",8,0.52
+"ST009",2026-01-16,1,53.73,134325,"Green Charge Cibubur",8,0.52
+"ST009",2026-01-20,1,44.13,110325,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-03,2,42.99,107475,"Green Charge Cibubur",8,1.04
+"ST009",2026-02-04,1,34.99,87475,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-06,1,55.92,139800,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-11,1,41.65,104125,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-12,1,53.62,134050,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-15,1,47.65,119125,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-16,1,33.18,82950,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-17,1,45.17,112925,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-18,1,24.01,60025,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-22,1,40.39,100975,"Green Charge Cibubur",8,0.52
+"ST009",2026-02-26,2,89.41,223525,"Green Charge Cibubur",8,1.04
+"ST009",2026-02-27,1,39.43,98575,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-02,1,9.27,23175,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-03,1,55.88,139700,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-06,1,43.4,108500,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-08,1,15.07,37675,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-09,2,95.6,239000,"Green Charge Cibubur",8,1.04
+"ST009",2026-03-10,1,45.47,113675,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-12,1,21.47,53675,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-13,1,58.16,145400,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-14,1,11.38,28450,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-15,1,24.06,60150,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-16,2,105.22,263050,"Green Charge Cibubur",8,1.04
+"ST009",2026-03-17,1,48.18,120450,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-20,1,45.06,112650,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-23,2,60.88,152200,"Green Charge Cibubur",8,1.04
+"ST009",2026-03-26,1,13.19,32975,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-28,1,54.25,135625,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-29,1,10.45,26125,"Green Charge Cibubur",8,0.52
+"ST009",2026-03-31,2,94.66,236650,"Green Charge Cibubur",8,1.04
+"ST009",2026-04-01,1,52.49,131225,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-05,2,37.51,93775,"Green Charge Cibubur",8,1.04
+"ST009",2026-04-08,1,46.66,116650,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-10,2,52.74,131850,"Green Charge Cibubur",8,1.04
+"ST009",2026-04-15,1,42.07,105175,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-16,1,36.7,91750,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-17,1,26.37,65925,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-18,1,31.94,79850,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-21,1,42.15,105375,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-22,1,36.49,91225,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-23,1,38.39,95975,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-26,1,35.96,89900,"Green Charge Cibubur",8,0.52
+"ST009",2026-04-27,3,65.24,163100,"Green Charge Cibubur",8,1.56
+"ST009",2026-05-07,1,49.15,122875,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-08,1,25.22,63050,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-09,1,51.38,128450,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-10,1,52.03,130075,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-11,1,38.25,95625,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-14,1,30.69,76725,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-15,2,41.07,102675,"Green Charge Cibubur",8,1.04
+"ST009",2026-05-17,2,49.28,123200,"Green Charge Cibubur",8,1.04
+"ST009",2026-05-20,3,109.87,274675,"Green Charge Cibubur",8,1.56
+"ST009",2026-05-22,1,7.88,19700,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-23,1,32.15,80375,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-24,1,25.94,64850,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-25,1,55.67,139175,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-28,1,30.4,76000,"Green Charge Cibubur",8,0.52
+"ST009",2026-05-30,2,74.98,187450,"Green Charge Cibubur",8,1.04
+"ST009",2026-06-03,1,40.95,102375,"Green Charge Cibubur",8,0.52
+"ST009",2026-06-05,2,99.39,248475,"Green Charge Cibubur",8,1.04
+"ST009",2026-06-06,1,10.07,25175,"Green Charge Cibubur",8,0.52
+"ST009",2026-06-09,1,10.72,26800,"Green Charge Cibubur",8,0.52
+"ST009",2026-06-20,1,46.38,115950,"Green Charge Cibubur",8,0.52
+"ST009",2026-06-22,1,47.71,119275,"Green Charge Cibubur",8,0.52
+"ST009",2026-06-30,1,44.14,110350,"Green Charge Cibubur",8,0.52
+"ST010",2026-01-01,2,44.06,110150,"Green Charge Bekasi",10,0.83
+"ST010",2026-01-02,2,71.24,178100,"Green Charge Bekasi",10,0.83
+"ST010",2026-01-08,1,35.99,89975,"Green Charge Bekasi",10,0.42
+"ST010",2026-01-09,1,44.2,110500,"Green Charge Bekasi",10,0.42
+"ST010",2026-01-12,1,45.09,112725,"Green Charge Bekasi",10,0.42
+"ST010",2026-01-14,2,71.54,178850,"Green Charge Bekasi",10,0.83
+"ST010",2026-01-20,1,17.64,44100,"Green Charge Bekasi",10,0.42
+"ST010",2026-01-23,1,19.56,48900,"Green Charge Bekasi",10,0.42
+"ST010",2026-01-28,2,89.45,223625,"Green Charge Bekasi",10,0.83
+"ST010",2026-02-01,1,53.72,134300,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-04,1,16.64,41600,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-05,2,91.96,229900,"Green Charge Bekasi",10,0.83
+"ST010",2026-02-06,1,40.64,101600,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-08,1,36.11,90275,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-09,1,41.7,104250,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-10,1,52.69,131725,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-12,2,45.67,114175,"Green Charge Bekasi",10,0.83
+"ST010",2026-02-13,1,10.28,25700,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-17,1,18.46,46150,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-22,1,47.72,119300,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-24,3,73.17,182925,"Green Charge Bekasi",10,1.25
+"ST010",2026-02-26,1,7.6,19000,"Green Charge Bekasi",10,0.42
+"ST010",2026-02-27,2,64.7,161750,"Green Charge Bekasi",10,0.83
+"ST010",2026-02-28,1,50.13,125325,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-03,1,5.43,13575,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-04,2,31.24,78100,"Green Charge Bekasi",10,0.83
+"ST010",2026-03-07,1,22.65,56625,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-08,1,44.99,112475,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-11,1,27.47,68675,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-12,1,16.65,41625,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-13,1,30.81,77025,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-14,1,19.97,49925,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-18,1,53.86,134650,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-21,1,53.99,134975,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-26,1,17.67,44175,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-27,1,28.39,70975,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-28,1,57.71,144275,"Green Charge Bekasi",10,0.42
+"ST010",2026-03-29,1,21.39,53475,"Green Charge Bekasi",10,0.42
+"ST010",2026-04-01,3,40.09,100225,"Green Charge Bekasi",10,1.25
+"ST010",2026-04-04,2,84.46,211150,"Green Charge Bekasi",10,0.83
+"ST010",2026-04-06,1,58.29,145725,"Green Charge Bekasi",10,0.42
+"ST010",2026-04-12,1,56.38,140950,"Green Charge Bekasi",10,0.42
+"ST010",2026-04-14,1,20.67,51675,"Green Charge Bekasi",10,0.42
+"ST010",2026-04-19,1,33.68,84200,"Green Charge Bekasi",10,0.42
+"ST010",2026-04-21,1,35.98,89950,"Green Charge Bekasi",10,0.42
+"ST010",2026-04-28,1,35.99,89975,"Green Charge Bekasi",10,0.42
+"ST010",2026-04-30,1,20.68,51700,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-03,1,19.48,48700,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-04,1,23.53,58825,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-08,1,13.57,33925,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-11,1,27.48,68700,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-12,1,32.78,81950,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-13,1,21.48,53700,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-18,2,33.95,84875,"Green Charge Bekasi",10,0.83
+"ST010",2026-05-20,1,10.31,25775,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-23,1,34.4,86000,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-28,1,8.16,20400,"Green Charge Bekasi",10,0.42
+"ST010",2026-05-31,1,34.85,87125,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-06,1,46.09,115225,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-10,1,42.89,107225,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-11,1,30.79,76975,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-14,2,77.81,194525,"Green Charge Bekasi",10,0.83
+"ST010",2026-06-19,1,50.56,126400,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-23,1,56.79,141975,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-24,1,24.94,62350,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-28,1,24.01,60025,"Green Charge Bekasi",10,0.42
+"ST010",2026-06-30,1,47.81,119525,"Green Charge Bekasi",10,0.42

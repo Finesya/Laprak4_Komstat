@@ -1,0 +1,11 @@
+"id_stasiun","nama_stasiun","kota","jumlah_charger","tarif_per_kwh"
+"ST001","Green Charge Sudirman","Jakarta Pusat",8,2500
+"ST002","Green Charge Kuningan","Jakarta Selatan",6,2500
+"ST003","Green Charge Gatot Subroto","Jakarta Selatan",10,2500
+"ST004","Green Charge TB Simatupang","Jakarta Selatan",12,2500
+"ST005","Green Charge Kemang","Jakarta Selatan",5,2500
+"ST006","Green Charge Senayan","Jakarta Pusat",9,2500
+"ST007","Green Charge Kelapa Gading","Jakarta Utara",7,2500
+"ST008","Green Charge Puri Indah","Jakarta Barat",6,2500
+"ST009","Green Charge Cibubur","Jakarta Timur",8,2500
+"ST010","Green Charge Bekasi","Bekasi",10,2500
